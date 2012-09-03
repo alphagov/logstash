@@ -1,5 +1,5 @@
 # The version of logstash.
-LOGSTASH_VERSION = "1.1.1.sincedbfixed"
+LOGSTASH_VERSION = "1.1.1.sincedbfixed.grokdisabled"
 
 # Note to authors: this should not include dashes because 'gem' barfs if
 # you include a dash in the version string.
